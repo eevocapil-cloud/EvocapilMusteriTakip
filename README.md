@@ -1,1 +1,1 @@
-# EvocapilMusteriTakip
+chmod +x gradlew && ./gradlew assembleDebug
